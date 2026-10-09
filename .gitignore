@@ -11,3 +11,5 @@ ticket/fuzz/artifacts/
 # somzilla issues tracking file
 somzilla.md
 
+config.bat
+node_modules
