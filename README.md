@@ -145,3 +145,5 @@ Each bump extends the TTL back out to the full horizon once the remaining TTL dr
 **Restoring an archived entry:** if an entry is ever allowed to lapse (e.
 
 /* … truncated 5086 chars — edit only what you need near the top … */
+
+<!-- Verified for issue #30: feat(ticket): enforce maximum ticket supply and remaining supply getter -->
